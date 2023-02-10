@@ -1,2 +1,2 @@
-# scientific-calculator
+# calculator-assignment-brainnest
  
